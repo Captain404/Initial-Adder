@@ -11,7 +11,7 @@ dsmith</br>
 .</br>
 zsmith</br>
 </br>
-You can switch "letter" and "name" on line 13 (prepended_names = letter + name) to append the initial to the name.</br>
+You can switch "letter" and "name" on line 11 (prepended_names = letter + name) to append the initial to the name.</br>
 #### Example:
 smitha</br>
 smithb</br>
